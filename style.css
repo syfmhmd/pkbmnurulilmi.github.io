@@ -223,6 +223,10 @@ footer .sosials a:hover {
 
   }
 
+  .info-panel {
+    margin-top: -75px;
+  }
+
   .info-panel h3 {
     font-size: 2rem;
   }
