@@ -214,6 +214,7 @@ footer .sosials a:hover {
     display: inline-block;
   }
 
+
   .hero .content h1 {
     font-size: 2.8em;
   }
@@ -224,7 +225,7 @@ footer .sosials a:hover {
   }
 
   .info-panel {
-    margin-top: -65px;
+    margin-top: -60px;
   }
 
   .info-panel h3 {
