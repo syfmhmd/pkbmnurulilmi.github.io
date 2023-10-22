@@ -37,14 +37,14 @@ body {
 }
 
 .navbar .navbar-nav a:hover {
-  color: #59db42;
+  color: #39e11b;
 }
 
 .navbar .navbar-nav a::after {
   content: "";
   display: block;
   padding-bottom: 0.5rem;
-  border-bottom: 0.1rem solid #59db42;
+  border-bottom: 0.1rem solid #39e11b;
   transform: scaleX(0);
   transition: 0.2s linear;
 }
@@ -91,7 +91,7 @@ body {
 }
 
 .hero .content h1 span {
-  color: #59db42;
+  color: #39e11b;
 }
 
 .hero .content p {
@@ -128,7 +128,7 @@ body {
 }
 
 .info-panel h3 span {
-  color: #59db42;
+  color: #39e11b;
 }
 
 .info-panel p {
@@ -153,7 +153,7 @@ section {
 }
 
 .container .row h1 span {
-  color: #59db42;
+  color: #39e11b;
 }
 
 /* Program */
@@ -164,7 +164,7 @@ section {
 }
 
 .row .card span {
-  color: #59db42;
+  color: #39e11b;
 }
 
 .row .card a {
@@ -180,7 +180,7 @@ footer .sosials a {
 }
 
 footer .sosials a:hover {
-  color: #59db42;
+  color: #39e11b;
 }
 
 
@@ -224,7 +224,7 @@ footer .sosials a:hover {
   }
 
   .info-panel {
-    margin-top: -50px;
+    margin-top: -65px;
   }
 
   .info-panel h3 {
@@ -249,7 +249,7 @@ footer .sosials a:hover {
     }
   
     .container .row h1 span {
-      color: #59db42;
+      color: #39e11b;
     }
 
   footer p {
